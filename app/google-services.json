@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "463064871202",
+    "firebase_url": "https://dormify-15dcd-default-rtdb.firebaseio.com",
+    "project_id": "dormify-15dcd",
+    "storage_bucket": "dormify-15dcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463064871202:android:e3ccbde8667f864f78b57b",
+        "android_client_info": {
+          "package_name": "com.dhvsu.dormify2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463064871202-p71m5br380r1tka6eev2k0lfdsd4s9bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4SRyMeTygsBTwd3wL6zMpwTdI9T86bhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463064871202-p71m5br380r1tka6eev2k0lfdsd4s9bi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463064871202:android:607536cbbe8b8f8578b57b",
+        "android_client_info": {
+          "package_name": "com.ex.dormyfyjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463064871202-p71m5br380r1tka6eev2k0lfdsd4s9bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4SRyMeTygsBTwd3wL6zMpwTdI9T86bhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463064871202-p71m5br380r1tka6eev2k0lfdsd4s9bi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463064871202:android:f328dc3d78b0dc3978b57b",
+        "android_client_info": {
+          "package_name": "com.ex.finalprojectasia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463064871202-p71m5br380r1tka6eev2k0lfdsd4s9bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4SRyMeTygsBTwd3wL6zMpwTdI9T86bhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463064871202-p71m5br380r1tka6eev2k0lfdsd4s9bi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463064871202:android:4793c03a5f4a384b78b57b",
+        "android_client_info": {
+          "package_name": "com.example.kotlindormify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463064871202-p71m5br380r1tka6eev2k0lfdsd4s9bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4SRyMeTygsBTwd3wL6zMpwTdI9T86bhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463064871202-p71m5br380r1tka6eev2k0lfdsd4s9bi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
